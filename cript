@@ -1,0 +1,11 @@
+[33mcommit 1e45fbdf167d01a8989dbfd82d77e2fa7807aa93[m[33m ([m[1;36mHEAD -> [m[1;32mcomponent[m[33m, [m[1;31morigin/admin-ui[m[33m, [m[1;32madmin-ui[m[33m)[m
+Author: nangtiandi <zueryan212002@gmail.com>
+Date:   Sun Dec 19 13:39:41 2021 +0630
+
+    admin-ui
+
+[33mcommit 4f62b6b838756368abe7861a77cdaa4e575c4126[m[33m ([m[1;31morigin/auth[m[33m, [m[1;32mauth[m[33m)[m
+Author: nangtiandi <zueryan212002@gmail.com>
+Date:   Sun Dec 19 12:15:58 2021 +0630
+
+    auth-email

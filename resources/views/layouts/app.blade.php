@@ -41,5 +41,6 @@
 @endauth
 
 <script src="{{asset('js/app.js')}}"></script>
+@include('admin.footer')
 </body>
 </html>

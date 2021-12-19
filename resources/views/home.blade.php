@@ -13,8 +13,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
-                    {{ __('You are logged in!') }}
+                    <button class="btn btn-info" id="test">Click</button>
                 </div>
             </div>
         </div>
